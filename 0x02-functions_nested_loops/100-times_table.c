@@ -4,7 +4,7 @@
  *   * @size: the size of the multplication table
  *    * Return: void
 */
-void print_times_table(int size)
+void print_times_table(int size);
 {
 if ((size >= 0) && (size <= 15))
 {
